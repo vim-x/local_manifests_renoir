@@ -15,10 +15,10 @@
     <!-- Kernel -->
     <project path="kernel/xiaomi/renoir" name="android_kernel_xiaomi_sm8350" remote="vim-devs" revision="renoir" />
     
-    <!-- Vendor -->
+    <!-- Vendor - Proprietary -->
     <project path="vendor/xiaomi/renoir" name="proprietary_vendor_xiaomi_renoir" remote="vim-devs" revision="renoir-qpr3" />
 
-    <!-- Vendor - Common -->
+    <!-- Vendor -->
     <project path="vendor/xiaomi/renoir" name="vendor_xiaomi_sm8350-common" remote="vim-devs" revision="renoir-qpr3" />
 
     <!-- Vendor - Common -->
