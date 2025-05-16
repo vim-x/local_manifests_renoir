@@ -7,24 +7,24 @@
     <remote name="sounddrill31" fetch="https://github.com/vim-x" clone-depth="1" />
 
     <!-- Device -->
-    <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="vim-devs" revision="renoir-qpr3" />
+    <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="vim-devs" revision="15" />
 
     <!-- Device - Common -->
-    <project path="device/xiaomi/sm8350-common" name="device_xiaomi_sm8350-common" remote="vim-devs" revision="renoir-qpr3" />
+    <project path="device/xiaomi/sm8350-common" name="device_xiaomi_sm8350-common" remote="vim-devs" revision="15" />
     
     <!-- Kernel -->
-    <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="vim-devs" revision="renoir" />
+    <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="vim-devs" revision="15" />
     
     <!-- Vendor - Proprietary -->
-    <project path="vendor/xiaomi/renoir" name="proprietary_vendor_xiaomi_renoir" remote="vim-devs" revision="renoir-qpr3" />
+    <project path="vendor/xiaomi/renoir" name="proprietary_vendor_xiaomi_renoir" remote="vim-devs" revision="15" />
 
     <!-- Vendor - Common -->
-    <project path="vendor/xiaomi/sm8350-common" name="vendor_xiaomi_sm8350-common" remote="vim-devs" revision="renoir-qpr3" />
+    <project path="vendor/xiaomi/sm8350-common" name="vendor_xiaomi_sm8350-common" remote="vim-devs" revision="15" />
 
     <!-- Vendor - Bcr -->
-    <project path="vendor/bcr" name="vendor_bcr" remote="vim-devs" revision="renoir-qpr3" />
+    <project path="vendor/bcr" name="vendor_bcr" remote="vim-devs" revision="main" />
     
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="vim-devs" revision="renoir-qpr3" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="vim-devs" revision="15" />
     
 </manifest>
