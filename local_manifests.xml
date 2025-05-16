@@ -3,8 +3,8 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="halibw-dev" fetch="https://github.com/vim-devs" clone-depth="1" />
-    <remote name="sounddrill31" fetch="https://github.com/vim-x" clone-depth="1" />
+    <remote name="vim-devs" fetch="https://github.com/vim-devs" clone-depth="1" />
+    <remote name="vim-x" fetch="https://github.com/vim-x" clone-depth="1" />
 
     <!-- Device -->
     <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="vim-devs" revision="15" />
